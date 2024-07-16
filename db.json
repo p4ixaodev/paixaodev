@@ -1,0 +1,34 @@
+{
+
+    "correos" :
+    [
+        {
+            "id":1,
+            "email":"j@x.com"
+        },
+        {
+            "id":2,
+            "email":"ja@x.com"
+        },
+        {
+            "id":3,
+            "email":"sa@x.com"
+        },
+        {
+            "id":4,
+            "email":"jer@x.com"
+        },
+        {
+            "id":5,
+            "email":"jwe@x.com"
+        },
+        {
+            "id":6,
+            "email":"opi@x.com"
+        },
+        {
+            "id":7,
+            "email":"asd@x.com"
+        }
+    ]
+}
